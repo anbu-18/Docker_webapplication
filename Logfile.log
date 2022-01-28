@@ -1,0 +1,8 @@
+2022-01-28 15:12:26,532:INFO:successfully connect2022-01-28 15:12:35,467:INFO: use GET method to fetch the values from Database
+2022-01-28 15:12:41,116:INFO: Use POST method to enter the values into the Database
+2022-01-28 15:12:41,480:INFO: use GET method to fetch the values from Database
+164:INFO:successfully connected to the database
+2022-01-28 15:12:41,200:DEBUG: check the data passed and method used in the forms
+2022-01-28 15:12:41,458:INFO:values inserted successfully
+2022-01-28 15:12:41,485:INFO:successfully connected to the database
+2022-01-28 15:12:41,502:INFO:fetching data from the database
